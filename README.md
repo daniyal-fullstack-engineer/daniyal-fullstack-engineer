@@ -28,7 +28,7 @@
 ### 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-daniyal-software-engineer/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://daniyal-dev-portfolio.vercel.app/)  
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-id-here)
+
 
 ---
 
@@ -50,7 +50,7 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hamza-Imran435&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Imran435&theme=dark&hide_border=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Imran435&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <br><br>
