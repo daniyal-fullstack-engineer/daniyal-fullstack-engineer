@@ -49,16 +49,14 @@
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hamza-Imran435&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Imran435&theme=dark&hide_border=true)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Imran435&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br><br>
 
-![](https://github-readme-stats.vercel.app/api?username=Daniyal-Amjad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Daniyal-Amjad&theme=tokyonight&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyal-Amjad&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-### 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=Daniyal-Amjad&theme=tokyonight&no-frame=true&margin-w=4)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Hamza-Imran435&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
